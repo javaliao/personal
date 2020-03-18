@@ -69,6 +69,11 @@
             <artifactId>mapper</artifactId>
             <version>4.0.0</version>
         </dependency>
+<!--        freemarker-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
